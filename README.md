@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @loguio
 - 👀 I’m interested by programmation
 - 🌱 I’m currently learning golang, JS, java, c#, python,
+- 🎓 Actually working at Fab Academy as developer (React, nestJS, Prisma, Github) Until 20 September 2024.
 - 💞️ I’m looking for an offer to work abroad (any country exept France) from september 2024
 - 📫 How to reach me :  
 - [Linkedin](https://www.linkedin.com/in/marius-bourse-52618a220/)
